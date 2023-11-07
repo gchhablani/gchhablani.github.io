@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Multi-Task Prompted Training Enables Zero-Shot Task Generalization"
+date:   2022-03-17 18:08:39 +00:00
+image: /images/topp-icon.png
+categories: research
+arxiv: https://arxiv.org/abs/2109.02846
+code: https://github.com/bigscience-workshop/promptsource
+author: "Gunjan Chhablani"
+venue: "ICLR"
+authors: "Victor Sanh, Albert Webson, Colin Raffel, Stephen H. Bach, Lintang Sutawika, Zaid Alyafeai, Antoine Chaffin, Arnaud Stiegler, Teven Le Scao, Arun Raja, Manan Dey, M Saiful Bari, Canwen Xu, Urmish Thakker, Shanya Sharma, Eliza Szczechla, Taewoon Kim, <strong>Gunjan Chhablani</strong>, Nihal Nayak, Debajyoti Datta, Jonathan Chang, Mike Tian-Jian Jiang, Han Wang, Matteo Manica, Sheng Shen, Zheng Xin Yong, Harshit Pandey, Rachel Bawden, Thomas Wang, Trishala Neeraj, Jos Rozen, Abheesht Sharma, Andrea Santilli, Thibault Fevry, Jason Alan Fries, Ryan Teehan, Tali Bers, Stella Biderman, Leo Gao, Thomas Wolf, Alexander M. Rush"
+---

@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Datasets: A Community Library for Natural Language Processing"
+date:   2021-09-10 18:08:39 +00:00
+image: /images/hf-icon.png
+categories: research
+arxiv: https://arxiv.org/abs/2109.02846
+code: https://github.com/huggingface/datasets
+author: "Gunjan Chhablani"
+venue: "EMNLP (Demo)"
+authors: "Quentin Lhoest, Albert Villanova del Moral, Yacine Jernite, Abhishek Thakur, Patrick von Platen, Suraj Patil, Julien Chaumond, Mariama Drame, Julien Plu, Lewis Tunstall, Joe Davison, Mario Šaško, <strong>Gunjan Chhablani</strong>, Bhavitvya Malik, Simon Brandeis, Teven Le Scao, Victor Sanh, Canwen Xu, Nicolas Patry, Angelina McMillan-Major, Philipp Schmid, Sylvain Gugger, Clément Delangue, Théo Matussière, Lysandre Debut, Stas Bekman, Pierric Cistac, Thibault Goehringer, Victor Mustar, François Lagunas, Alexander M. Rush, Thomas Wolf"
+---

@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "LRG at SemEval-2021 Task 4: Improving Reading Comprehension with Abstract Words using Augmentation, Linguistic Features and Voting"
+date:   2021-06-26 18:08:39 +00:00
+image: /images/recam-icon.png
+categories: research
+arxiv: https://arxiv.org/abs/2102.12255
+code: https://github.com/gchhablani/ReCAM
+author: "Gunjan Chhablani"
+venue: "SemEval-2021 Workshop, ACL-IJCNLP"
+authors: "Abheesht Sharma, Harshit Pandey, <strong>Gunjan Chhablani</strong>, Yash Bhartia, Tirtharaj Dash"
+---

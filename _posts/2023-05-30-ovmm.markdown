@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "The HomeRobot Open Vocabulary Mobile Manipulation Challenge"
+date:   2023-05-30 18:08:39 +00:00
+image: /images/ovmm-icon.png
+categories: research
+website: https://aihabitat.org/challenge/2023_homerobot_ovmm/
+author: "Gunjan Chhablani"
+venue: "NeurIPS 2023 (Competitions Track)"
+authors: "Sriram Yenamandra, Arun Ramachandran, Mukul Khanna, Karmesh Yadav, Devendra Singh Chaplot, <strong>Gunjan Chhablani</strong>, Alexander Clegg, Theophile Gervet, Vidhi Jain, Ruslan Partsey, Ram Ramrakhya, Andrew Szot, Austin Wang, Tsung-Yen Yang, Aaron Edsinger, Charles Kemp, Binit Shah, Zsolt Kira, Dhruv Batra, Roozbeh Mottaghi, Yonatan Bisk, Chris Paxton"
+---

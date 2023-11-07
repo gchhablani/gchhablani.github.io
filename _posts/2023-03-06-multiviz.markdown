@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "MultiViz: Towards Visualizing and Understanding Multimodal Models"
+date:   2023-03-06 18:08:39 +00:00
+image: /images/multiviz-icon.png
+categories: research
+arxiv: https://arxiv.org/abs/2207.00056
+code: https://github.com/pliang279/MultiViz
+website: https://multivizweb.github.io/
+author: "Gunjan Chhablani"
+venue: "ICLR"
+authors: "Paul Pu Liang, Yiwei Lyu, <strong>Gunjan Chhablani</strong>, Nihal Jain, Zihao Deng, Xingbo Wang, Louis-Philippe Morency, Ruslan Salakhutdinov"
+subtitle: "Towards Visualizing and Understanding Multimodal Models"
+---
