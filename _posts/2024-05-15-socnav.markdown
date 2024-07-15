@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Curriculum Learning for GPS-Free Indoor Social Navigation"
+date:   2024-05-15 18:08:39 +00:00
+image: /images/socnav.png
+categories: research
+code: https://github.com/gchhablani/socialnav
+website: https://gchhablani.github.io/socnav-curr/
+author: "Gunjan Chhablani"
+venue: "CVPR Embodied AI Workshop"
+authors: "<strong>Gunjan Chhablani</strong>*, Madhura Keshava Ummettuguli*, Siva Kailas*"
+subtitle: "Using curriculum for removing GPS dependency in indoor humanoid navigation"
+---

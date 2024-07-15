@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "GOAT-Bench: A Benchmark for Multi-Modal Lifelong Navigation"
+date:   2024-05-15 18:08:39 +00:00
+image: /images/goat.jpg
+categories: research
+arxiv: https://arxiv.org/abs/2404.06609
+code: https://github.com/Ram81/goat-bench
+website: https://mukulkhanna.github.io/goat-bench/
+author: "Gunjan Chhablani"
+venue: "CVPR"
+authors: "Mukul Khanna*, Ram Ramrakhya*, <strong>Gunjan Chhablani</strong>, Sriram Yenamandra, Theophile Gervet, Matthew Chang, Zsolt Kira, Devendra Singh Chaplot, Dhruv Batra, Roozbeh Mottaghi"
+subtitle: "A Benchmark for Multi-Modal Lifelong Navigation"
+---
