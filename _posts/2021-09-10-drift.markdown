@@ -8,6 +8,6 @@ arxiv: https://arxiv.org/abs/2107.01198
 code: https://github.com/rajaswa/DRIFT
 author: "Gunjan Chhablani"
 venue: "EMNLP (Demo)"
-authors: "Abheesht Sharma, <strong>Gunjan Chhablani</strong>, Harshit Pandey, Rajaswa Patil"
+authors: "Abheesht Sharma*, <strong>Gunjan Chhablani</strong>*, Harshit Pandey*, Rajaswa Patil"
 subtitle: "A Toolkit for Diachronic Analysis of Scientific Literature"
 ---
